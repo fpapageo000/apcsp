@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>About Me</title>
+  </head>
+  <body>
+    <br>
+    <img src="images/aboutme.jpg" height="100" width="100">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="index.html">Home</a>
+    <a href="portfolio.html">Portfolio</a>
+    <a href="about.html">About Me</a>
+    <br>
+    <br>
+    <hr>
+    <br>
+    <h1 style="color: #00BFFF">About Me</h1>
+    <br>
+    <p>My name is Foti Papageorge and I am a 17 year old Senior at Waukesha West High School in Waukesha, Wisconsin.
+I have been interested in computers since I got my first laptop in 6th grade, and I've been learning code since I was a freshman.
+I plan to major in either Civil Engineering or City/Urban Planning, as I am very interested in the design of cities and urban areas, which is why I chose to visit New York City over the summer with my family.</p>
+  </body>
+</html>
